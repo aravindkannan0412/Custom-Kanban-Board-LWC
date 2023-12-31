@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+
+     <types>
+        <members>Custom_Kanban_board</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>KanbanDragAndDropUsing_LWC</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Kanban_Drag_and_Drop_Using_LWC</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>trpDragAndDropChildCard</members>
+        <members>trpDragAndDropLwc</members>
+        <members>trpDragAndDropLwcChild</members>
+        <name>LightningComponentBundle</name>
+    </types>
+
+    <version>58.0</version>
+</Package>
